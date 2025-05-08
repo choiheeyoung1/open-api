@@ -53,7 +53,6 @@ with open(notebook_path, "w", encoding="utf-8") as f:
 
 print(f"Jupyter Notebook이 '{notebook_path}'에 생성되었습니다.")
 
-
 # 필요한 라이브러리를 설치합니다.
 # !pip install qrcode[pil]
 
